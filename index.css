@@ -1,0 +1,30 @@
+.navLogin{
+    display: inline-block;
+    width: 100%;
+    height: 10%;
+    background-color: blue;
+}
+.infoLogin{
+    display: inline-block;
+    align-content: center;
+    width: 100%;
+    height: 90%;
+    background-color: yellowgreen;
+}
+.inputLogin{
+    display: inline-block;
+    width: 100%;
+    height: 10%;
+}
+.loginButton{
+    display: inline-block;
+    width: 100%;
+    height: 10;
+    color: white;
+    background-color: springgreen;
+}
+.layoutLogin{
+    display: inline-block;
+    width: 100%;
+    height: 10%;
+}
